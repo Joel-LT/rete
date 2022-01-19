@@ -1,2 +1,2 @@
-require: 
+r: 
   - ts-node/register
