@@ -3,7 +3,7 @@ Rete.js  [![Build Status](https://travis-ci.org/retejs/rete.svg?branch=master)](
 [![Join the chat at https://gitter.im/retejs/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/retejs/Lobby)
 ====
 #### JavaScript framework for visual programming
-<!-- TAS check -->
+<!-- TAS check here-->
 ![rete logo](https://i.imgur.com/rydGu6B.png)
 
 Introduction
